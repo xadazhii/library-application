@@ -39,7 +39,7 @@ Once the registration is successful, you will be able to log in to your account.
 
 > 💡 **Tip:** Ensure your email and password meet the security requirements.
 
-  <img width="892" alt="Screenshot 2024-12-09 at 20 53 58" src="https://github.com/user-attachments/assets/9c652d1a-740c-4825-856f-5e691a658e5a">
+<img width="892" alt="Screenshot 2024-12-09 at 20 53 58" src="https://github.com/user-attachments/assets/13bfc546-60e7-478d-98a9-741df7e91714">
 
 #### **🔐 Login:**
 After successful registration, log in to access your dashboard.  
@@ -47,7 +47,7 @@ After successful registration, log in to access your dashboard.
   - **Username**  
   - **Password**  
 
-  <img width="892" alt="Screenshot 2024-12-09 at 21 46 58" src="https://github.com/user-attachments/assets/48807019-a574-48c4-adc0-54909ca73c41">
+<img width="892" alt="Screenshot 2024-12-09 at 21 46 58" src="https://github.com/user-attachments/assets/4a5313a7-b0ae-429a-9fe2-b10f286d54a1">
 
 ---
 
@@ -55,64 +55,63 @@ After successful registration, log in to access your dashboard.
 
 ### 👥 **Users:**
 - **Personal Dashboard:**
-  - <img width="891" alt="Screenshot 2024-12-09 at 20 53 31" src="https://github.com/user-attachments/assets/921ad390-5c08-4323-8785-27da289d9233">
+  - <img width="891" alt="Screenshot 2024-12-09 at 20 53 31" src="https://github.com/user-attachments/assets/7f205bd2-7aeb-4f33-8fe3-8d3feb74a6d4">
 
   - 🔹 **My Collections:** View your personal collection of books.
-        - <img width="895" alt="Screenshot 2024-12-09 at 20 50 35" src="https://github.com/user-attachments/assets/d4900449-08c6-48b9-98e2-44952241e823">
+        - <img width="895" alt="Screenshot 2024-12-09 at 20 50 35" src="https://github.com/user-attachments/assets/5f785537-5218-4807-9429-3ca421f4b644">
 
   - 🔹 **Library:** Browse and discover books in the library.
-        - <img width="887" alt="Screenshot 2024-12-09 at 20 50 57" src="https://github.com/user-attachments/assets/5445d0be-e4f9-40f1-93a9-a777368da97f">
+        - <img width="887" alt="Screenshot 2024-12-09 at 20 50 57" src="https://github.com/user-attachments/assets/12be5406-40aa-4412-abae-66b304bb5126">
       
     - Borrow and return books with ease.
-         - <img width="887" alt="Screenshot 2024-12-09 at 21 40 28" src="https://github.com/user-attachments/assets/a64341cb-6028-4d37-9477-7952d436ce8f">
+         - <img width="887" alt="Screenshot 2024-12-09 at 21 40 28" src="https://github.com/user-attachments/assets/a04b7c05-2bdc-4632-a4e4-9847026f7a09">
  
   - 🔹 **My Transactions:** Track your borrowing history.
-        - <img width="895" alt="Screenshot 2024-12-09 at 20 51 32" src="https://github.com/user-attachments/assets/fe0cdc73-a97a-409b-a414-c50b219df51e">
+        - <img width="895" alt="Screenshot 2024-12-09 at 20 51 32" src="https://github.com/user-attachments/assets/e46dc3c5-f22b-4022-a22d-6214b8776979">
 
   - 🔹 **Settings:**  Update your username or email.
-        - <img width="890" alt="Screenshot 2024-12-09 at 20 53 38" src="https://github.com/user-attachments/assets/d8bc7307-b212-49e3-bd8a-4807fca20d4f">
+        - <img width="890" alt="Screenshot 2024-12-09 at 20 53 38" src="https://github.com/user-attachments/assets/4a5cb3e8-ee4e-44b4-bc52-dddc93220b88">
 
 - **Help Button (❓):**
   - Provides guidance on how to use the application.
-        - <img width="891" alt="Screenshot 2024-12-09 at 20 51 22" src="https://github.com/user-attachments/assets/dfd25b3e-f1c4-472c-b91c-4f3a2131e968">
-
+        - <img width="891" alt="Screenshot 2024-12-09 at 20 51 22" src="https://github.com/user-attachments/assets/0bc47ace-b895-46f3-967f-a1c251bf4344">
 
 ---
 
 ### 🔑 **Administrators:**
 - 📋  **Personal Dashboard:**
-  <img width="891" alt="Screenshot 2024-12-09 at 20 50 46" src="https://github.com/user-attachments/assets/0acb86c7-14d1-46fd-9a86-73d95eae69ee">
+  - <img width="891" alt="Screenshot 2024-12-09 at 20 50 46" src="https://github.com/user-attachments/assets/b53c7a0e-7f68-4c85-8ffe-34d073a38c2b">
 
   - 🔗 **Admin Panel** with the following sections:
-      - <img width="893" alt="Screenshot 2024-12-09 at 20 51 44" src="https://github.com/user-attachments/assets/63319977-d6c0-4429-bab8-2a131dd7a51e">
+      - <img width="893" alt="Screenshot 2024-12-09 at 20 51 44" src="https://github.com/user-attachments/assets/d90d371e-97b0-4fa3-aef0-1f68880415c6">
 
     - 🔹 **Manage Users:**  
       - Delete and add user accounts.
-          - <img width="892" alt="Screenshot 2024-12-09 at 20 52 02" src="https://github.com/user-attachments/assets/2c8ca170-011c-4188-8741-1de904d233ea">
+          - <img width="892" alt="Screenshot 2024-12-09 at 20 52 02" src="https://github.com/user-attachments/assets/b3e26cba-1a07-4b47-b47f-05bed3cec74e">
        - Edit user roles (User/Admin).
-          - <img width="885" alt="Screenshot 2024-12-09 at 20 52 12" src="https://github.com/user-attachments/assets/9b351f99-51ea-4218-b41b-3024ae5cca9a">
+          - <img width="885" alt="Screenshot 2024-12-09 at 20 52 12" src="https://github.com/user-attachments/assets/6f8517b6-69b3-4945-9d20-0b5fa2a07943">
 
     - 🔹 **Manage Books:**
       
       - Delete and add books.
-          - <img width="892" alt="Screenshot 2024-12-09 at 20 52 24" src="https://github.com/user-attachments/assets/6baffbb6-3f4a-4c8d-994d-f89f1a7d6eb9">
+          - <img width="892" alt="Screenshot 2024-12-09 at 20 52 24" src="https://github.com/user-attachments/assets/2af74b39-26fa-4359-8025-8c944469f66d">
       
       - Edit books.
-          - <img width="885" alt="Screenshot 2024-12-09 at 20 52 35" src="https://github.com/user-attachments/assets/00737bb2-17d6-46ad-80c7-86d43d4aba5a">
+          - <img width="885" alt="Screenshot 2024-12-09 at 20 52 35" src="https://github.com/user-attachments/assets/403e3773-fed5-4bc2-9f86-857a8366ed8f">
 
     - 🔹 **Manage Transactions:**
       
       - Monitor borrowing and return transactions.
-          - <img width="895" alt="Screenshot 2024-12-09 at 20 52 51" src="https://github.com/user-attachments/assets/195b4135-edd7-4a02-9ebf-75b35546d5da">
+          - <img width="895" alt="Screenshot 2024-12-09 at 20 52 51" src="https://github.com/user-attachments/assets/b14f7869-d36a-4bc5-86bb-b7c6b0a65d56">
         
       - Delete transactions.
-          - <img width="887" alt="Screenshot 2024-12-09 at 20 52 59" src="https://github.com/user-attachments/assets/8b6ace46-a762-4152-8696-4e384d342fc2">
+          - <img width="887" alt="Screenshot 2024-12-09 at 20 52 59" src="https://github.com/user-attachments/assets/4c28c6c8-e456-484a-a87b-c0362b11a36b">
 
 
   - **Help Button (❓):**
     
     - Instructions on using the Admin Panel.
-          - <img width="893" alt="Screenshot 2024-12-09 at 20 51 54" src="https://github.com/user-attachments/assets/f3025e04-30bb-4fe3-bf8b-5fddcfb39a11">
+          - <img width="893" alt="Screenshot 2024-12-09 at 20 51 54" src="https://github.com/user-attachments/assets/d2c18862-5011-4535-9948-b641dbee4ac2">
 
 
 ---
