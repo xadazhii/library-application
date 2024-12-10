@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.effect.GaussianBlur?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.GridPane?>
+
+<AnchorPane id="myBooksRoot" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: #ecf0f1; -fx-padding: 20;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.client.controller.MyBooksController">
+
+    <ImageView fx:id="backgroundImage" fitHeight="600.0" fitWidth="900.0">
+        <Image url="@images/books_scene.png" />
+        <effect>
+            <GaussianBlur/>
+        </effect>
+    </ImageView>
+
+    <Label layoutX="129.0" layoutY="22.0" prefHeight="19.0" prefWidth="301.0" style="-fx-font-size: 28px; -fx-font-family: 'Arial Black'; -fx-text-fill: #ffffff;">
+        <effect>
+            <DropShadow color="#000000"/>
+        </effect>
+        <text>My Book Collection</text>
+    </Label>
+
+    <ScrollPane layoutX="129.0" layoutY="72.0" prefHeight="457.0" prefWidth="654.0" style="-fx-background-color: #ffffff; -fx-border-color: #ccc; -fx-border-radius: 10;">
+
+        <GridPane fx:id="booksContainer" hgap="10" style="-fx-padding: 10;" vgap="10" />
+    </ScrollPane>
+
+    <Button layoutX="80.0" layoutY="545.0" onAction="#handleBackToAccount" style="-fx-background-color: #e30f28; -fx-text-fill: white; -fx-font-size: 14px; -fx-border-radius: 5; -fx-background-radius: 5;" text="Back" />
+</AnchorPane>

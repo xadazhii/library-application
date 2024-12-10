@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.GaussianBlur?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.client.controller.AuthController">
+
+    <ImageView fx:id="backgroundImage" fitHeight="600.0" fitWidth="900.0" layoutY="7.0" preserveRatio="true">
+        <Image url="@images/auth2.png" />
+        <effect>
+            <GaussianBlur radius="6" />
+        </effect>
+    </ImageView>
+
+    <Pane fx:id="formBackground" layoutX="326.0" layoutY="175.0" prefHeight="285.0" prefWidth="255.0" style="-fx-background-color: #D3D3D3; -fx-background-radius: 15; -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 20, 0.5, 0, 10); -fx-border-color: #090808; -fx-border-width: 2; -fx-border-radius: 15;" AnchorPane.bottomAnchor="145.0" AnchorPane.leftAnchor="326.0" AnchorPane.rightAnchor="319.0" AnchorPane.topAnchor="175.0">
+    <TabPane fx:id="tabPane" layoutY="-6.0" prefHeight="306.0" prefWidth="255.0" style="-fx-background-color: transparent; -fx-tab-min-width: 100; -fx-tab-max-width: 100;">
+            <Tab fx:id="loginTab" closable="false" style="-fx-background-color: transparent; -fx-font-size: 14px;" text="Log In">
+                <AnchorPane>
+                    <VBox alignment="CENTER" layoutX="25.0" layoutY="10.0" spacing="10.0" style="-fx-padding: 20;">
+                        <HBox spacing="10">
+                            <ImageView fx:id="usernameIcon" fitHeight="20.0" fitWidth="20.0">
+                                <Image url="@images/user.png" />
+                            </ImageView>
+                            <Label style="-fx-text-fill: #292e37; -fx-font-family: 'Arial'; -fx-font-size: 16px;" text="Username" />
+                        </HBox>
+                        <TextField fx:id="loginUsernameField" promptText="Enter your username" style="-fx-background-color: #F0F0F0; -fx-border-color: #CCCCCC; -fx-border-radius: 5; -fx-background-radius: 5;" />
+
+                        <HBox spacing="10">
+                            <ImageView fx:id="passwordIcon" fitHeight="20.0" fitWidth="20.0">
+                                <Image url="@images/padlock.png" />
+                            </ImageView>
+                            <Label style="-fx-text-fill: #292e37; -fx-font-family: 'Arial'; -fx-font-size: 16px;" text="Password" />
+                        </HBox>
+                        <PasswordField fx:id="loginPasswordField" promptText="Enter your password" style="-fx-background-color: #F0F0F0; -fx-border-color: #CCCCCC; -fx-border-radius: 5; -fx-background-radius: 5;" />
+
+                        <Button onAction="#onLoginButtonClick" style="-fx-background-color: #4CAF50; -fx-text-fill: white; -fx-background-radius: 5; -fx-font-size: 16px;" text="Log In" />
+                    </VBox>
+                </AnchorPane>
+            </Tab>
+
+            <!-- Реєстрація -->
+            <Tab closable="false" style="-fx-background-color: transparent; -fx-font-size: 14px;" text="Sign Up">
+                <AnchorPane prefHeight="290.0" prefWidth="255.0">
+                    <VBox alignment="CENTER" layoutX="25.0" layoutY="-10.0" prefHeight="229.0" prefWidth="202.0" spacing="10.0" style="-fx-padding: 20;">
+                        <HBox spacing="10">
+                            <ImageView fx:id="signupUsernameIcon" fitHeight="20.0" fitWidth="20.0">
+                                <Image url="@images/user.png" />
+                            </ImageView>
+                            <Label style="-fx-text-fill: #292e37; -fx-font-family: 'Arial'; -fx-font-size: 16px;" text="Username" />
+                        </HBox>
+                        <TextField fx:id="usernameField" promptText="Enter your username" style="-fx-background-color: #F0F0F0; -fx-border-color: #CCCCCC; -fx-border-radius: 5; -fx-background-radius: 5;" />
+
+                        <HBox spacing="10">
+                            <ImageView fx:id="signupEmailIcon" fitHeight="20.0" fitWidth="20.0">
+                                <Image url="@images/mail.png" />
+                            </ImageView>
+                            <Label style="-fx-text-fill: #292e37; -fx-font-family: 'Arial'; -fx-font-size: 16px;" text="Email" />
+                        </HBox>
+                        <TextField fx:id="emailField" promptText="Enter your email" style="-fx-background-color: #F0F0F0; -fx-border-color: #CCCCCC; -fx-border-radius: 5; -fx-background-radius: 5;" />
+
+                        <HBox spacing="10">
+                            <ImageView fx:id="signupPasswordIcon" fitHeight="20.0" fitWidth="20.0">
+                                <Image url="@images/padlock.png" />
+                            </ImageView>
+                            <Label style="-fx-text-fill: #292e37; -fx-font-family: 'Arial'; -fx-font-size: 16px;" text="Password" />
+                        </HBox>
+                        <PasswordField fx:id="passwordField" promptText="Enter your password" style="-fx-background-color: #F0F0F0; -fx-border-color: #CCCCCC; -fx-border-radius: 5; -fx-background-radius: 5;" />
+
+                        <Button onAction="#onRegisterButtonClick" style="-fx-background-color: #2196F3; -fx-text-fill: white; -fx-background-radius: 5; -fx-font-size: 16px;" text="Sign Up" />
+                    </VBox>
+                </AnchorPane>
+            </Tab>
+        </TabPane>
+    </Pane>
+
+    <Label alignment="CENTER" layoutX="180.0" layoutY="50.0" prefWidth="540.0" style="-fx-font-size: 28px; -fx-font-family: 'Arial Black'; -fx-text-fill: #ffffff; -fx-effect: dropShadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0.5, 0, 5); -fx-alignment: center; -fx-padding: 20px;" text="Welcome to the Library!" />
+</AnchorPane>
