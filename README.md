@@ -11,7 +11,9 @@
 - [Key Features](#key-features)
 - [How to Use](#how-to-use)
 - [Technologies](#technologies)  
-- [How to Run the Project](#how-to-run-the-project)  
+- [How to Run the Project](#how-to-run-the-project)
+- [Copyrights](#copyrights)
+- [License](#license)
 
 
 ---
