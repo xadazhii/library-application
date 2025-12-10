@@ -1,9 +1,9 @@
 #  **Library Application**  
-*📚Efficient library management for users and administrators.📚*
+*Efficient library management for users and administrators.*
 
 ---
 
-### ⛓️ **Table of Contents**
+### **Table of Contents**
 
 - [Library Application](#library-application)  
 - [Overview](#overview)  
@@ -30,7 +30,7 @@ The program provides a user-friendly interface to access personal dashboards, li
 
 ##  **Registration and Login**  
 
-#### **🔑 Registration:**
+#### ** Registration:**
 To start using the application, you need to register.  
 - Enter the following details:  
   - **Username**  
@@ -39,11 +39,11 @@ To start using the application, you need to register.
 
 Once the registration is successful, you will be able to log in to your account.
 
-> 💡 **Tip:** Ensure your email and password meet the security requirements.
+>  **Tip:** Ensure your email and password meet the security requirements.
 
 <img width="892" alt="Screenshot 2024-12-09 at 20 53 58" src="https://github.com/user-attachments/assets/13bfc546-60e7-478d-98a9-741df7e91714">
 
-#### **🔐 Login:**
+#### ** Login:**
 After successful registration, log in to access your dashboard.  
 - Provide the following credentials:  
   - **Username**  
@@ -55,23 +55,23 @@ After successful registration, log in to access your dashboard.
 
 ##  **Key Features**  
 
-### 👥 **Users:**
+### **Users:**
 - **Personal Dashboard:**
   - <img width="891" alt="Screenshot 2024-12-09 at 20 53 31" src="https://github.com/user-attachments/assets/7f205bd2-7aeb-4f33-8fe3-8d3feb74a6d4">
 
-  - 🔹 **My Collections:** View your personal collection of books.
+  -  **My Collections:** View your personal collection of books.
         - <img width="895" alt="Screenshot 2024-12-09 at 20 50 35" src="https://github.com/user-attachments/assets/5f785537-5218-4807-9429-3ca421f4b644">
 
-  - 🔹 **Library:** Browse and discover books in the library.
+  -  **Library:** Browse and discover books in the library.
         - <img width="887" alt="Screenshot 2024-12-09 at 20 50 57" src="https://github.com/user-attachments/assets/12be5406-40aa-4412-abae-66b304bb5126">
       
     - Borrow and return books with ease.
          - <img width="887" alt="Screenshot 2024-12-09 at 21 40 28" src="https://github.com/user-attachments/assets/a04b7c05-2bdc-4632-a4e4-9847026f7a09">
  
-  - 🔹 **My Transactions:** Track your borrowing history.
+  -  **My Transactions:** Track your borrowing history.
         - <img width="895" alt="Screenshot 2024-12-09 at 20 51 32" src="https://github.com/user-attachments/assets/e46dc3c5-f22b-4022-a22d-6214b8776979">
 
-  - 🔹 **Settings:**  Update your username or email.
+  -  **Settings:**  Update your username or email.
         - <img width="890" alt="Screenshot 2024-12-09 at 20 53 38" src="https://github.com/user-attachments/assets/4a5cb3e8-ee4e-44b4-bc52-dddc93220b88">
 
 - **Help Button (❓):**
@@ -80,20 +80,20 @@ After successful registration, log in to access your dashboard.
 
 ---
 
-### 🔑 **Administrators:**
-- 📋  **Personal Dashboard:**
+###  **Administrators:**
+-   **Personal Dashboard:**
   - <img width="891" alt="Screenshot 2024-12-09 at 20 50 46" src="https://github.com/user-attachments/assets/b53c7a0e-7f68-4c85-8ffe-34d073a38c2b">
 
-  - 🔗 **Admin Panel** with the following sections:
+  -  **Admin Panel** with the following sections:
       - <img width="893" alt="Screenshot 2024-12-09 at 20 51 44" src="https://github.com/user-attachments/assets/d90d371e-97b0-4fa3-aef0-1f68880415c6">
 
-    - 🔹 **Manage Users:**  
+    -  **Manage Users:**  
       - Delete and add user accounts.
           - <img width="892" alt="Screenshot 2024-12-09 at 20 52 02" src="https://github.com/user-attachments/assets/b3e26cba-1a07-4b47-b47f-05bed3cec74e">
        - Edit user roles (User/Admin).
           - <img width="885" alt="Screenshot 2024-12-09 at 20 52 12" src="https://github.com/user-attachments/assets/6f8517b6-69b3-4945-9d20-0b5fa2a07943">
 
-    - 🔹 **Manage Books:**
+    -  **Manage Books:**
       
       - Delete and add books.
           - <img width="892" alt="Screenshot 2024-12-09 at 20 52 24" src="https://github.com/user-attachments/assets/2af74b39-26fa-4359-8025-8c944469f66d">
@@ -101,7 +101,7 @@ After successful registration, log in to access your dashboard.
       - Edit books.
           - <img width="885" alt="Screenshot 2024-12-09 at 20 52 35" src="https://github.com/user-attachments/assets/403e3773-fed5-4bc2-9f86-857a8366ed8f">
 
-    - 🔹 **Manage Transactions:**
+    -  **Manage Transactions:**
       
       - Monitor borrowing and return transactions.
           - <img width="895" alt="Screenshot 2024-12-09 at 20 52 51" src="https://github.com/user-attachments/assets/b14f7869-d36a-4bc5-86bb-b7c6b0a65d56">
@@ -120,22 +120,22 @@ After successful registration, log in to access your dashboard.
 
 ##  **How to Use**
 
-### 📝 Sign Up: 
+### Sign Up: 
 - Create an account by filling out the registration form.
 
-### 🔓 Log In: 
+### Log In: 
 - Access the system using your credentials.
 
-#### ✨ **Admin Credentials:**  
+#### **Admin Credentials:**  
   - **Username:** `admin`  
   - **Email:** `admin@admin.com`  
   - **Password:** `admin`  
 
-### 📖 Explore the Library:
+### Explore the Library:
 - Browse the library catalog to find books.
 - Add books to your personal collection.
 
-### 🔄 Track Transactions:
+### Track Transactions:
 - Check your borrowing and return history.
 - View details of completed transactions.
 
@@ -143,18 +143,18 @@ After successful registration, log in to access your dashboard.
 ## **Technologies**
 - The application is developed using the following technologies:
 
-### 👨‍💻 Frontend: 
+### Frontend: 
 - JavaFX (for building a modern graphical user interface).
-### 👩🏻‍💻 Backend: 
+### Backend: 
 - Spring Boot (for business logic and database interactions).
 - Spring Security (for authentication and authorization).
-### 🧑🏼‍🔧 Database: 
+### Database: 
 - SQLite.
 
 ---
 
 ##  **How to Run the Project**
-### 🐾 Steps to run locally:
+### Steps to run locally:
 
 1. Clone the repository:
  ```
@@ -192,5 +192,3 @@ All icons and images are located in the **Resource Package**.
 ## **License**
 
 This project is owned by **Adazhii Kristina**.
-
-Copying or using this project requires personal permission from the owner.
