@@ -87,13 +87,13 @@ After successful registration, log in to access your dashboard.
   -  **Admin Panel** with the following sections:
       - <img width="893" alt="Screenshot 2024-12-09 at 20 51 44" src="https://github.com/user-attachments/assets/d90d371e-97b0-4fa3-aef0-1f68880415c6">
 
-    -  **Manage Users:**  
+   -  **Manage Users:**  
       - Delete and add user accounts.
           - <img width="892" alt="Screenshot 2024-12-09 at 20 52 02" src="https://github.com/user-attachments/assets/b3e26cba-1a07-4b47-b47f-05bed3cec74e">
        - Edit user roles (User/Admin).
           - <img width="885" alt="Screenshot 2024-12-09 at 20 52 12" src="https://github.com/user-attachments/assets/6f8517b6-69b3-4945-9d20-0b5fa2a07943">
 
-    -  **Manage Books:**
+   -  **Manage Books:**
       
       - Delete and add books.
           - <img width="892" alt="Screenshot 2024-12-09 at 20 52 24" src="https://github.com/user-attachments/assets/2af74b39-26fa-4359-8025-8c944469f66d">
@@ -101,7 +101,7 @@ After successful registration, log in to access your dashboard.
       - Edit books.
           - <img width="885" alt="Screenshot 2024-12-09 at 20 52 35" src="https://github.com/user-attachments/assets/403e3773-fed5-4bc2-9f86-857a8366ed8f">
 
-    -  **Manage Transactions:**
+   -  **Manage Transactions:**
       
       - Monitor borrowing and return transactions.
           - <img width="895" alt="Screenshot 2024-12-09 at 20 52 51" src="https://github.com/user-attachments/assets/b14f7869-d36a-4bc5-86bb-b7c6b0a65d56">
